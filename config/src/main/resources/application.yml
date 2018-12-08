@@ -6,9 +6,9 @@ spring:
       server:
         git:
           uri: https://github.com/icefamer/config-repo
-          basedir: D:\mxy\project\config\basedir
+          basedir: D:\mxy\project\springcloud-sell\config\basedir
   rabbitmq:
-    host: 192.168.48.200
+    host: 192.168.1.180
     port: 5672
     username: guest
     password: guest
